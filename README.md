@@ -14,6 +14,7 @@ Use this template:
 
 # Contributors
 
+[ROHIT](https://github.com/ROHIT-JR)
 [Siddharth J P](https://github.com/jpsiddharth2008)
 [Gokul Akash](https://github.com/GokulAkash4444)
 [Pranay Vinod](https://github.com/Pranay-vinod07)
