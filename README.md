@@ -9,7 +9,6 @@ Add your name in the section below.
 Use this template:
 ```
 [Your name](Your github profile)
-
 ```
 
 # Contributors
