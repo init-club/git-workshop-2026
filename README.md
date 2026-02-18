@@ -8,11 +8,13 @@ Add your name in the section below.
 
 Use this template:
 ```
-[Your Name](Your GitHub Profile URL)
+[Your name](Your github profile)
+
 ```
 
 # Contributors
 
+[Dhesshwin-B-G](https://github.com/Dhesshwin-B-G)
 [Shalini Arthirajan](https://github.com/shalini-arthirajan)
 [Shyam](https://github.com/LuminaryNova)
 [Bhargava](https://github.com/Bhargi777)
